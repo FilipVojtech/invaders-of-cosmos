@@ -1,0 +1,31 @@
+-    UI – User interface
+o    Ukazování počtu zabití
+o    Ukazování počtu bodů do extra útoku
+
+-    Pohyb <- | ->
+o    Ochrana proti vypadnutí z mapy
+o    Pohyb pouze doleva a doprava
+
+-    Extra útok
+o    TODO:Rychlejší střílení
+o    Silnější
+o    Po určitém čase nebo po určitém počtu výstřelů
+
+-    Úrovně
+o    Po určitém počtu zabití nebo čase
+o    Noví nepřátelé
+o    Rychlejší čas respawnu nepřátel
+
+-    Generování nepřátel
+o    Vytváření v náhodných bodech v jedné rovině
+
+-    Nepřátelé
+o    Pohyb dopředu
+o    Udělování damage
+o    Pokud by loď proletěla hráčem(damage), pokud by ho přeletěla(damage)
+
+-    Noví nepřátelé
+o    Více bodů
+o    Rychlejší
+o    Více životů
+o    Jiná grafika

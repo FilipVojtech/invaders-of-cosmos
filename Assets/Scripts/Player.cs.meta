@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0ef57f0a625a0104697c55607a745586
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missilePrefab: {instanceID: 0}
+  - rightSpawner: {instanceID: 0}
+  - leftSpawner: {instanceID: 0}
+  - superPrefab: {instanceID: 0}
+  - superSpawner: {instanceID: 0}
+  - superSlider: {instanceID: 0}
+  - enemyPrefabEasy: {instanceID: 0}
+  - enemyPrefabHard: {instanceID: 0}
+  - hitPoints: {instanceID: 0}
+  - killCount: {instanceID: 0}
+  - superCount: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
